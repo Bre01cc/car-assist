@@ -16,7 +16,7 @@ Semestre: 2026/1
 ### Orientadores: 
 - [@Joao-Meyer](https://github.com/Joao-Meyer)
 - [@fernandoleonid](https://github.com/fernandoleonid)
-- [@fernandoleonid](https://github.com/fernandoleonid)
+- [@marcelnt](https://github.com/marcelnt)
 - [@yurikomuta](https://github.com/yurikomuta)
 
 
@@ -26,7 +26,7 @@ Semestre: 2026/1
 ├── 📂 docs              
 │   └── 📄 proposta.pptx    
 │   └── 📄 wireframes.md  
-│   └── 📄 TAP.pdf  
+│   └── 📄 TAP (formato WIKI)  
 │   └── 📄 LER.docx    
 │   └── 📄 apresentação_prévia.pptx     #apresentação prévia    
 │   └── 📄 apresentação.pptx            #apresentação final
