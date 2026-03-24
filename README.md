@@ -24,7 +24,7 @@ Semestre: 2026/1
 ├── 📂 docs              
 │   └── 📄 proposta.pptx    
 │   └── 📄 wireframes.md  
-│   └── 📄 TAP.pdf  
+│   └── 📄 TAP (formato WIKI)  
 │   └── 📄 LER.docx    
 │   └── 📄 apresentação_prévia.pptx     #apresentação prévia    
 │   └── 📄 apresentação.pptx            #apresentação final
