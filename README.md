@@ -1,5 +1,6 @@
 
-<img width="800" height="355" alt="car_assist_logo_clean" src="https://github.com/user-attachments/assets/2a4e4d00-93e8-4c5b-b90c-3022c938887c" />
+<img width="800" height="355" alt="car_assist_red_v2" src="https://github.com/user-attachments/assets/6035f897-74bd-4c56-88ca-5c4afbccbdec" />
+
 
 
 # Car Assist
