@@ -22,7 +22,7 @@ Semestre: 2026/1
 - [@yurikomuta](https://github.com/yurikomuta)
 
 ### Documentação
-
+```
 ├── 📂 docs              
 │   └── 📄 proposta.pptx    
 │   └── 📄 wireframes.md  
@@ -44,7 +44,7 @@ Semestre: 2026/1
 
 ├── 📂 referências              
 │   └── 📄 bibliografia.bib
-
+```
 ---
 ## Protótipo
 ### Alta Fidelidade:
