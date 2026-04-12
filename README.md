@@ -11,6 +11,11 @@ Empresa especializada no desenvolvimento de aplicações voltadas para o setor a
 
 Este repositório tem como objetivo organizar e gerenciar o desenvolvimento do projeto Car Assist, incluindo a criação de demandas, acompanhamento de atividades e evolução das funcionalidades do sistema. A proposta é manter um fluxo de trabalho estruturado, facilitando a colaboração e garantindo a qualidade no desenvolvimento da solução.
 
+## Repositórios
+[Back-End](https://github.com/Bre01cc/Car-Assist-backend)
+[Front-End](https://github.com/Guilherme1108/Car-Assist-Frontend)
+[Mobile](https://github.com/Gustaxsx/Car-Assist-Mobile)
+[Banco de Dados]()
 
 ### Disciplina: Trabalho de Conclusão de Curso
 Semestre: 2026/1
