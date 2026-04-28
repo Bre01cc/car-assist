@@ -1,5 +1,4 @@
-
-<img width="800" height="355" alt="car_assist_red_v2" src="https://github.com/user-attachments/assets/6035f897-74bd-4c56-88ca-5c4afbccbdec" />
+<img width="1774" height="887" alt="ChatGPT Image 28 de abr  de 2026, 08_34_53" src="https://github.com/user-attachments/assets/76a51f7c-7d65-4358-a63e-657577e4f202" />
 
 
 
@@ -64,7 +63,7 @@ Este projeto utiliza o padrão **Conventional Commits** para manter um históric
 ### Estrutura
 
 ```bash
-tipo(escopo): descrição curta
+tipo: descrição curta
 ```
 
  - feat: Nova funcionalidade                             
